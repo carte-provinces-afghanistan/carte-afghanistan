@@ -17,8 +17,8 @@ content:
       delete: false
     view:
       primary: title
-      fields: [title, code, updatedAt]
-      sort: [title, updatedAt]
+      fields: [title, code]
+      sort: [title]
       default:
         sort: title
         order: asc
@@ -32,12 +32,6 @@ content:
         label: Titre
         type: string
         required: true
-      - name: intro
-        label: Introduction courte
-        type: text
-      - name: updatedAt
-        label: Date de mise à jour
-        type: date
       - name: body
         label: Contenu de la fiche
         type: rich-text
