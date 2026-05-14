@@ -1,0 +1,49 @@
+media:
+  input: public/media
+  output: media
+  rename: safe
+  categories: [image, document]
+
+content:
+  - name: provinces
+    label: Provinces
+    type: collection
+    path: content/provinces
+    format: yaml-frontmatter
+    filename: "{code}.md"
+    subfolders: false
+    operations:
+      create: false
+      delete: false
+    view:
+      primary: title
+      fields: [title, code, updatedAt]
+      sort: [title, updatedAt]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: code
+        label: Code province
+        type: string
+        required: true
+        readonly: true
+      - name: title
+        label: Titre
+        type: string
+        required: true
+      - name: intro
+        label: Introduction courte
+        type: text
+      - name: updatedAt
+        label: Date de mise à jour
+        type: date
+      - name: body
+        label: Contenu de la fiche
+        type: rich-text
+
+settings:
+  commit:
+    identity: user
+    templates:
+      update: "content: mettre à jour {filename}"
