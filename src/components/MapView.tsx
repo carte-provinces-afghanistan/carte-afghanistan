@@ -173,6 +173,10 @@ const neighbourLabelOffsets: Partial<Record<string, [number, number]>> = {
   IRN: [-3, 0]
 };
 
+const provinceLabelOffsets: Partial<Record<string, [number, number]>> = {
+  "AF-NUR": [20, 0]
+};
+
 export function MapView({ selectedCode, onSelectProvince }: MapViewProps) {
   const provinceLabelLineHeight = 13;
   const [isMobileViewport, setIsMobileViewport] = useState(() =>
@@ -208,12 +212,16 @@ export function MapView({ selectedCode, onSelectProvince }: MapViewProps) {
       const code = getFeatureId(feature);
       const province = provinceCatalogByCode.get(code);
       const labelAnchor = getProjectedPoleOfInaccessibility(feature, projection);
+      const labelOffset = provinceLabelOffsets[code] ?? [0, 0];
 
       return {
         feature,
         code,
         province,
-        labelAnchor
+        labelAnchor: [
+          labelAnchor[0] + labelOffset[0],
+          labelAnchor[1] + labelOffset[1]
+        ] as [number, number]
       };
     });
   }, [projection]);
