@@ -8,8 +8,6 @@ Ce texte est un **contenu de démonstration** destiné à montrer la mise en for
 
 L'objectif est de vérifier un rendu confortable pour des textes longs, avec des paragraphes, des liens, des listes et des éléments visuels simples. 
 
-![Mon signature.jpg](media/mon-signature.jpg)
-
 ## Axes d'analyse possibles
 
 - Contexte général et repères géographiques.
