@@ -2,12 +2,13 @@
 code: AF-KAB
 title: Kaboul
 ---
-
 ## Présentation
 
 Ce texte est un **contenu de démonstration** destiné à montrer la mise en forme finale. Il pourra être remplacé directement dans PagesCMS par un texte plus précis sur la province.
 
-L'objectif est de vérifier un rendu confortable pour des textes longs, avec des paragraphes, des liens, des listes et des éléments visuels simples.
+L'objectif est de vérifier un rendu confortable pour des textes longs, avec des paragraphes, des liens, des listes et des éléments visuels simples. 
+
+![Mon signature.jpg](media/mon-signature.jpg)
 
 ## Axes d'analyse possibles
 
@@ -19,7 +20,10 @@ L'objectif est de vérifier un rendu confortable pour des textes longs, avec des
 
 ## Exemple de tableau
 
+
 | Indicateur | Valeur |
-| --- | --- |
+| ---------- | ---------------- |
 | Statut | À compléter |
 | Source | Fichier Markdown |
+
+
