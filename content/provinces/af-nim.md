@@ -50,7 +50,17 @@ L'IOM indique également que dans certaines zones de la province, notamment dans
 L'Organisation mondiale de la Santé (OMS) relève que le système de santé afghan souffre de problèmes structurels persistants, notamment un sous-investissement dans les infrastructures médicales, un manque de personnel de santé qualifié et une disponibilité insuffisante des services médicaux. L'OMS indique que de nombreux établissements de santé fonctionnent à capacité réduite ou ont fermé, ce qui limite davantage l'accès aux soins pour la population. Selon : [who-phsa-afghanistan_march_2026.pdf](https://cdn.who.int/media/docs/default-source/documents/emergencies/who-phsa-afghanistan_march_2026.pdf)
 
 Les informations recueillies par l'Organisation internationale pour les migrations (IOM) et l'Organisation mondiale de la Santé (OMS) montrent que l'accès aux soins de santé dans la province de Nimroz demeure limité. Les établissements de santé sont souvent insuffisamment dotés en personnel et en ressources, tandis que l'éloignement géographique constitue un obstacle important à l'accès aux soins, particulièrement dans les districts ruraux de Kang et Chakhansur. Les organisations internationales soulignent également que la situation du système de santé afghan s'est détériorée depuis août 2021 en raison du manque de financement, de la pénurie de personnel qualifié et de la fermeture ou du fonctionnement réduit de nombreuses structures sanitaires. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
+  
+**Présence d'organisations internationales**
 
+Plusieurs organisations internationales sont présentes ou actives à Nimroz, notamment :
+
+- Organisation internationale pour les migrations
+- Haut-Commissariat des Nations Unies pour les réfugiés
+- Organisation mondiale de la Santé
+- Fonds des Nations Unies pour l'enfance
+
+Ces organisations interviennent dans les domaines de la santé, de la protection, de l'aide humanitaire, de l'eau, de l'éducation et de l'assistance aux personnes déplacées et aux rapatriés.
 
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
