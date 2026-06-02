@@ -39,6 +39,8 @@ Selon l'IOM, les principales raisons pour lesquelles les enfants ne fréquentent
 - les difficultés de transport dans les zones reculées.
 -  les difficultés de transport dans les zones reculées.
 
+L'IOM indique également que dans certaines zones de la province, notamment dans le district de Chakhansur, jusqu'à 88 % des enfants étaient signalés comme non scolarisés lors de l'évaluation réalisée en 2021.
+
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
 - Évolutions récentes, contraintes et points de vigilance.
