@@ -27,7 +27,18 @@ Selon l'enquête socio-économique menée par l'UNFPA : [Nimrooz Highlight 25 Ja
 - 57,5 % des habitants âgés de 7 ans et plus n'avaient jamais fréquenté l'école.
 - Le taux net de fréquentation de l'enseignement primaire était de 55,5 %.
 - Le taux était plus élevé chez les garçons (60,9 %) que chez les filles (49,7 %).
-- La fréquentation diminue fortement au niveau secondaire et au lycée, notamment pour les filles.
+- La fréquentation diminue fortement au niveau secondaire et au lycée, notamment pour les filles.  
+
+
+**Obstacles à la scolarisation**  
+Selon l'IOM, les principales raisons pour lesquelles les enfants ne fréquentent pas l'école à Nimroz sont ·
+
+- Le coût de l'éducation pour les familles ;
+- l'éloignement des établissements scolaires ;
+- l'absence ou le mauvais fonctionnement de certaines écoles ;
+- les difficultés de transport dans les zones reculées.
+-  les difficultés de transport dans les zones reculées.
+
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
 - Évolutions récentes, contraintes et points de vigilance.
