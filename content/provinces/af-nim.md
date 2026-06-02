@@ -43,7 +43,14 @@ Selon l'IOM, les principales raisons pour lesquelles les enfants ne fréquentent
 - l'absence ou le mauvais fonctionnement de certaines écoles ;
 - les difficultés de transport dans les zones reculées.
 
-L'IOM indique également que dans certaines zones de la province, notamment dans le district de Chakhansur, jusqu'à 88 % des enfants étaient signalés comme non scolarisés lors de l'évaluation réalisée en 2021.
+L'IOM indique également que dans certaines zones de la province, notamment dans le district de Chakhansur, jusqu'à 88 % des enfants étaient signalés comme non scolarisés lors de l'évaluation réalisée en 2021.  
+  
+**Accès aux soins de santé dans la province de Nimroz**
+
+L'Organisation mondiale de la Santé (OMS) relève que le système de santé afghan souffre de problèmes structurels persistants, notamment un sous-investissement dans les infrastructures médicales, un manque de personnel de santé qualifié et une disponibilité insuffisante des services médicaux. L'OMS indique que de nombreux établissements de santé fonctionnent à capacité réduite ou ont fermé, ce qui limite davantage l'accès aux soins pour la population. Selon : [who-phsa-afghanistan_march_2026.pdf](https://cdn.who.int/media/docs/default-source/documents/emergencies/who-phsa-afghanistan_march_2026.pdf)
+
+Les informations recueillies par l'Organisation internationale pour les migrations (IOM) et l'Organisation mondiale de la Santé (OMS) montrent que l'accès aux soins de santé dans la province de Nimroz demeure limité. Les établissements de santé sont souvent insuffisamment dotés en personnel et en ressources, tandis que l'éloignement géographique constitue un obstacle important à l'accès aux soins, particulièrement dans les districts ruraux de Kang et Chakhansur. Les organisations internationales soulignent également que la situation du système de santé afghan s'est détériorée depuis août 2021 en raison du manque de financement, de la pénurie de personnel qualifié et de la fermeture ou du fonctionnement réduit de nombreuses structures sanitaires. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
+
 
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
