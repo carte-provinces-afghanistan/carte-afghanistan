@@ -66,7 +66,9 @@ Ces organisations interviennent dans les domaines de la santé, de la protection
 
 Oui. Nimroz est l'un des principaux points de retour des Afghans expulsés ou rapatriés depuis l'Iran. Le poste-frontière de Zaranj est l'une des principales portes d'entrée en Afghanistan pour les personnes renvoyées d'Iran. Le HCR (UNHCR) dispose d'un centre d'accueil officiel à Zaranj pour les rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)  
   
+**Migration et fuite par Nimroz**
 
+La route via Zaranj / Nimroz est connue depuis longtemps comme une route majeure vers l’Iran. L’EUAA indique que Zaranj est un hub de passage clandestin et que beaucoup d’Afghans passent par des passeurs, souvent sans documents valides. Selon : [Country of Origin Information: Situation of Afghan Refugees in Iran](https://www.euaa.europa.eu/sites/default/files/publications/2023-01/2023_01_COI_Report_Iran_Afghans_Refugees_EN.pdf)
 
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
