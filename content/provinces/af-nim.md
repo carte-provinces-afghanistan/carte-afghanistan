@@ -68,7 +68,26 @@ Oui. Nimroz est l'un des principaux points de retour des Afghans expulsés ou ra
   
 **Migration et fuite par Nimroz**
 
-La route via Zaranj / Nimroz est connue depuis longtemps comme une route majeure vers l’Iran. L’EUAA indique que Zaranj est un hub de passage clandestin et que beaucoup d’Afghans passent par des passeurs, souvent sans documents valides. Selon : [Country of Origin Information: Situation of Afghan Refugees in Iran](https://www.euaa.europa.eu/sites/default/files/publications/2023-01/2023_01_COI_Report_Iran_Afghans_Refugees_EN.pdf)
+La route via Zaranj / Nimroz est connue depuis longtemps comme une route majeure vers l’Iran. L’EUAA indique que Zaranj est un hub de passage clandestin et que beaucoup d’Afghans passent par des passeurs, souvent sans documents valides. Selon : [Country of Origin Information: Situation of Afghan Refugees in Iran](https://www.euaa.europa.eu/sites/default/files/publications/2023-01/2023_01_COI_Report_Iran_Afghans_Refugees_EN.pdf)  
+  
+Depuis 2021, la pression migratoire a augmenté à cause de la pauvreté, des restrictions imposées par les Taliban, de la peur des représailles et du manque de travail. Le Mixed Migration Centre note que les départs sont compliqués par les frontières plus sécurisées, moins de voies légales, la fermeture ou difficulté des services consulaires, et l’augmentation des checkpoints Taliban. Selon : [The impact of the Afghanistan crisis on migration: Increasingly securitized borders will only make migration riskier and more dangerous | Mixed Migration Centre](https://mixedmigration.org/articles/the-impact-of-the-afghanistan-crisis-on-migration/)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
 
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
