@@ -31,6 +31,7 @@ Selon l'enquête socio-économique menée par l'UNFPA : [Nimrooz Highlight 25 Ja
 
 
 **Obstacles à la scolarisation**  
+  
 Selon l'IOM, les principales raisons pour lesquelles les enfants ne fréquentent pas l'école à Nimroz sont ·
 
 - Le coût de l'éducation pour les familles ;
