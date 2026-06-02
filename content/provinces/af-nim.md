@@ -20,7 +20,7 @@ Les habitants de Nimroz font face à des difficultés importantes liées à la p
 **Accès à l'éducation**
 
 L'accès à l'éducation demeure limité. Selon les données du Fonds des Nations Unies pour la population (UNFPA), une grande partie de la population n'a jamais fréquenté l'école et le taux de scolarisation reste inférieur à la moyenne nationale. Les établissements scolaires existent dans les centres urbains comme Zaranj, mais de nombreux villages éloignés disposent de peu d'écoles et souffrent d'un manque d'enseignants et d'infrastructures. La situation des filles s'est encore détériorée depuis les restrictions imposées par les autorités talibanes sur l'enseignement secondaire et supérieur.   
-Selon :   
+Contrairement aux filles, les garçons continuent d'avoir accès à tous les niveaux d'enseignement en Afghanistan. Toutefois, de nombreux garçons demeurent exclus du système scolaire en raison de la pauvreté, du travail des enfants, de l'éloignement des établissements scolaires et des difficultés économiques. Selon l'UNICEF, près de 40 % des enfants non scolarisés en Afghanistan sont des garçons. Dans la province de Nimroz, les garçons présentent un taux de scolarisation supérieur à celui des filles, mais l'accès à l'éducation reste limité dans plusieurs zones rurales. Selon : [Education | UNICEF Afghanistan](https://www.unicef.org/afghanistan/education)  
   
 Axes d'analyse possibles
 
