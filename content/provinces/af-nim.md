@@ -15,10 +15,9 @@ Districts : La province de Nimruz est composée de cinq districts : Zaranj (capi
 ## **Situation de vie dans la province de Nimroz**
 
 Les habitants de Nimroz font face à des difficultés importantes liées à la pauvreté, au chômage, aux sécheresses récurrentes et au manque d'infrastructures. L'IOM souligne également que la province accueille un nombre important de personnes déplacées internes et de migrants de retour, ce qui augmente la pression sur les ressources locales. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
-  
-  
-   
+
 Contrairement aux filles, les garçons continuent d'avoir accès à tous les niveaux d'enseignement en Afghanistan. Toutefois, de nombreux garçons demeurent exclus du système scolaire en raison de la pauvreté, du travail des enfants, de l'éloignement des établissements scolaires et des difficultés économiques. Selon l'UNICEF, près de 40 % des enfants non scolarisés en Afghanistan sont des garçons. Dans la province de Nimroz, les garçons présentent un taux de scolarisation supérieur à celui des filles, mais l'accès à l'éducation reste limité dans plusieurs zones rurales. Selon : [Education | UNICEF Afghanistan](https://www.unicef.org/afghanistan/education)  
+  
 **Accès à l'éducation dans la province de Nimroz**
 
 La province de Nimroz fait partie des régions afghanes où l'accès à l'éducation reste limité, en particulier dans les zones rurales et désertiques éloignées de Zaranj, la capitale provinciale.
@@ -29,7 +28,6 @@ Selon l'enquête socio-économique menée par l'UNFPA : [Nimrooz Highlight 25 Ja
 - Le taux net de fréquentation de l'enseignement primaire était de 55,5 %.
 - Le taux était plus élevé chez les garçons (60,9 %) que chez les filles (49,7 %).
 - La fréquentation diminue fortement au niveau secondaire et au lycée, notamment pour les filles.
-
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
 - Évolutions récentes, contraintes et points de vigilance.
