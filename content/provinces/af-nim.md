@@ -11,9 +11,8 @@ Selon des organisations internationales telles que l’Organisation internationa
 Districts : La province de Nimruz est composée de cinq districts : Zaranj (capitale provinciale), Kang, Chakhansur, Khash Rod (Khash Rud) et Chahar Burjak, comme l'illustre la carte ci-dessous.    
 
 
-![liste des districts de la province de Nimruz.png](media/liste-des-districts-de-la-province-de-nimruz-1.png)
+![Nimruz_Districts 202KO..png](media/nimruzdistricts-202ko.png)
 
-  
   
   
 Axes d'analyse possibles
