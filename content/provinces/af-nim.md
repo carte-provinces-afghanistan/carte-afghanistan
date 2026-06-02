@@ -12,6 +12,10 @@ Districts : La province de Nimruz est composée de cinq districts : Zaranj (capi
 
 ![Nimruz_5 districts.png](media/nimruz5-districts.png)
 
+## **Situation de vie dans la province de Nimroz**
+
+La province de Nimroz est l'une des provinces les plus pauvres et les moins développées d'Afghanistan. Son territoire est en grande partie désertique et les habitants sont confrontés à des difficultés importantes liées à la pauvreté, au manque d'infrastructures, au chômage et aux conditions climatiques difficiles. Les sécheresses répétées affectent fortement l'agriculture et les moyens de subsistance de la population.   
+  
 Axes d'analyse possibles
 
 - Contexte général et repères géographiques.
