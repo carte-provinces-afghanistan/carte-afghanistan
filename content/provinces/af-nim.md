@@ -60,7 +60,9 @@ Plusieurs organisations internationales sont présentes ou actives à Nimroz, no
 - Organisation mondiale de la Santé
 - Fonds des Nations Unies pour l'enfance
 
-Ces organisations interviennent dans les domaines de la santé, de la protection, de l'aide humanitaire, de l'eau, de l'éducation et de l'assistance aux personnes déplacées et aux rapatriés.
+Ces organisations interviennent dans les domaines de la santé, de la protection, de l'aide humanitaire, de l'eau, de l'éducation et de l'assistance aux personnes déplacées et aux rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)  
+  
+
 
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
