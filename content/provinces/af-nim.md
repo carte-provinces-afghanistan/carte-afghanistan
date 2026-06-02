@@ -62,6 +62,10 @@ Plusieurs organisations internationales sont présentes ou actives à Nimroz, no
 
 Ces organisations interviennent dans les domaines de la santé, de la protection, de l'aide humanitaire, de l'eau, de l'éducation et de l'assistance aux personnes déplacées et aux rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)  
   
+**Les Afghans renvoyés d'Iran passent-ils par Nimroz ?**
+
+Oui. Nimroz est l'un des principaux points de retour des Afghans expulsés ou rapatriés depuis l'Iran. Le poste-frontière de Zaranj est l'une des principales portes d'entrée en Afghanistan pour les personnes renvoyées d'Iran. Le HCR (UNHCR) dispose d'un centre d'accueil officiel à Zaranj pour les rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)  
+  
 
 
 - Contexte général et repères géographiques.
