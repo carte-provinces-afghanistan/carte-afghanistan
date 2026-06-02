@@ -8,13 +8,15 @@ La province de Nimroz est située dans le sud-ouest de l’Afghanistan. Sa capit
 
 Selon des organisations internationales telles que l’Organisation internationale pour les migrations (IOM), Nimroz est également l’une des principales provinces de passage pour les Afghans qui cherchent à quitter le pays en direction de l’Iran et, plus largement, vers l’Europe ou d’autres destinations. Cette position frontalière stratégique a renforcé son importance depuis la prise de pouvoir des Taliban en août 2021.  
 
-Districts : La province de Nimruz est composée de cinq districts : Zaranj (capitale provinciale), Kang, Chakhansur, Khash Rod (Khash Rud) et Chahar Burjak, comme l'illustre la photo ci-dessous.  
+Districts : La province de Nimruz est composée de cinq districts : Zaranj (capitale provinciale), Kang, Chakhansur, Khash Rod (Khash Rud) et Chahar Burjak, comme l'illustre la photo ci-dessous.    
 
 
+![liste des districts de la province de Nimruz.png](media/liste-des-districts-de-la-province-de-nimruz-1.png)
 
-![Nimruz_districts_ en pshto ou dari.png](media/nimruzdistricts-en-pshto-ou-dari.png)
-
-## Axes d'analyse possibles
+  
+  
+  
+Axes d'analyse possibles
 
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
