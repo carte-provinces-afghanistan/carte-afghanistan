@@ -28,11 +28,7 @@ Selon l'enquête socio-économique menée par l'UNFPA : [Nimrooz Highlight 25 Ja
 - 57,5 % des habitants âgés de 7 ans et plus n'avaient jamais fréquenté l'école.
 - Le taux net de fréquentation de l'enseignement primaire était de 55,5 %.
 - Le taux était plus élevé chez les garçons (60,9 %) que chez les filles (49,7 %).
-- La fréquentation diminue fortement au niveau secondaire et au lycée, notamment pour les filles.  
-  
-  
-  
-
+- La fréquentation diminue fortement au niveau secondaire et au lycée, notamment pour les filles.
 
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
