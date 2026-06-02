@@ -4,9 +4,9 @@ title: Nimroz
 ---
 ## Présentation
 
-La province de Nimroz est située dans le sud-ouest de l’Afghanistan. Sa capitale est Zaranj, une ville frontalière avec l’Iran. Nimroz partage des frontières avec l’Iran à l’ouest et le Pakistan au sud, ce qui en fait une importante zone de transit pour le commerce et les mouvements de population. La province couvre une superficie d’environ 41 000 km² et compte généralement cinq districts administratifs. Son territoire est principalement désertique et elle fait partie des provinces les moins développées du pays, avec des défis importants en matière d’accès à l’éducation, aux soins de santé, à l’emploi et aux infrastructures.
+La province de Nimroz est située dans le sud-ouest de l’Afghanistan. Sa capitale est Zaranj. Elle partage des frontières avec l’Iran à l’ouest et le Pakistan au sud, ce qui en fait une importante zone de transit pour le commerce et les mouvements de population. La province couvre une superficie d’environ 41 000 km² et compte généralement cinq districts administratifs. Son territoire est principalement désertique et elle fait partie des provinces les moins développées du pays.
 
-Selon des organisations internationales telles que l’Organisation internationale pour les migrations (IOM), Nimroz est également l’une des principales provinces de passage pour les Afghans qui cherchent à quitter le pays en direction de l’Iran et, plus largement, vers l’Europe ou d’autres destinations. Cette position frontalière stratégique a renforcé son importance depuis la prise de pouvoir des Taliban en août 2021.  
+Selon des organisations internationales telles que l’Organisation internationale pour les migrations (IOM) [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf) , Nimroz est également l’une des principales provinces de passage pour les Afghans qui cherchent à quitter le pays en direction de l’Iran et, plus largement, vers l’Europe ou d’autres destinations. Cette position frontalière stratégique a renforcé son importance depuis la prise de pouvoir des Taliban en août 2021.  
 
 Districts : La province de Nimruz est composée de cinq districts : Zaranj (capitale provinciale), Kang, Chakhansur, Khash Rod (Khash Rud) et Chahar Burjak, comme l'illustre la carte ci-dessous.    
 
@@ -14,7 +14,13 @@ Districts : La province de Nimruz est composée de cinq districts : Zaranj (capi
 
 ## **Situation de vie dans la province de Nimroz**
 
-La province de Nimroz est l'une des provinces les plus pauvres et les moins développées d'Afghanistan. Son territoire est en grande partie désertique et les habitants sont confrontés à des difficultés importantes liées à la pauvreté, au manque d'infrastructures, au chômage et aux conditions climatiques difficiles. Les sécheresses répétées affectent fortement l'agriculture et les moyens de subsistance de la population.   
+Les habitants de Nimroz font face à des difficultés importantes liées à la pauvreté, au chômage, aux sécheresses récurrentes et au manque d'infrastructures. L'IOM souligne également que la province accueille un nombre important de personnes déplacées internes et de migrants de retour, ce qui augmente la pression sur les ressources locales. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
+  
+  
+**Accès à l'éducation**
+
+L'accès à l'éducation demeure limité. Selon les données du Fonds des Nations Unies pour la population (UNFPA), une grande partie de la population n'a jamais fréquenté l'école et le taux de scolarisation reste inférieur à la moyenne nationale. Les établissements scolaires existent dans les centres urbains comme Zaranj, mais de nombreux villages éloignés disposent de peu d'écoles et souffrent d'un manque d'enseignants et d'infrastructures. La situation des filles s'est encore détériorée depuis les restrictions imposées par les autorités talibanes sur l'enseignement secondaire et supérieur.   
+Selon :   
   
 Axes d'analyse possibles
 
