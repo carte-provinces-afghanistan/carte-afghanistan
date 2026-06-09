@@ -85,6 +85,12 @@ Plusieurs organisations internationales sont présentes ou actives à Nimroz, no
 
 Ces organisations interviennent dans les domaines de la santé, de la protection, de l'aide humanitaire, de l'eau, de l'éducation et de l'assistance aux personnes déplacées et aux rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)  
 
+**Migration et fuite par Nimroz**
+
+La route via Zaranj / Nimroz est connue depuis longtemps comme une route majeure vers l’Iran. L’EUAA indique que Zaranj est un hub de passage clandestin et que beaucoup d’Afghans passent par des passeurs, souvent sans documents valides. Selon : [Country of Origin Information: Situation of Afghan Refugees in Iran](https://www.euaa.europa.eu/sites/default/files/publications/2023-01/2023_01_COI_Report_Iran_Afghans_Refugees_EN.pdf)  
+
+Depuis 2021, la pression migratoire a augmenté à cause de la pauvreté, des restrictions imposées par les Taliban, de la peur des représailles et du manque de travail. Le Mixed Migration Centre note que les départs sont compliqués par les frontières plus sécurisées, moins de voies légales, la fermeture ou difficulté des services consulaires, et l’augmentation des checkpoints Taliban. Selon : [The impact of the Afghanistan crisis on migration: Increasingly securitized borders will only make migration riskier and more dangerous | Mixed Migration Centre](https://mixedmigration.org/articles/the-impact-of-the-afghanistan-crisis-on-migration/)  
+
 **Difficultés rencontrées lors de la fuite de l'Afghanistan par la province de Nimroz**  
 **Checkpoints des Taliban**  
 L’EUAA indique que des checkpoints Taliban existent “dans et autour des villes et localités afghanes”. Elle mentionne aussi des checkpoints à la frontière Afghanistan-Iran destinés à identifier d’anciens soldats et des personnes liées au NRF, selon des informations rapportées en 2022. Selon :[6. Internal protection alternative | European Union Agency for Asylum ](https://www.euaa.europa.eu/country-guidance-afghanistan/6-internal-protection-alternative)  
@@ -98,12 +104,6 @@ L’**EUAA** indique que les Taliban ont annoncé une amnistie, mais que des vio
 **Les Afghans renvoyés d'Iran passent-ils par Nimroz ?**
 
 Oui. Nimroz est l'un des principaux points de retour des Afghans expulsés ou rapatriés depuis l'Iran. Le poste-frontière de Zaranj est l'une des principales portes d'entrée en Afghanistan pour les personnes renvoyées d'Iran. Le HCR (UNHCR) dispose d'un centre d'accueil officiel à Zaranj pour les rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)  
-
-**Migration et fuite par Nimroz**
-
-La route via Zaranj / Nimroz est connue depuis longtemps comme une route majeure vers l’Iran. L’EUAA indique que Zaranj est un hub de passage clandestin et que beaucoup d’Afghans passent par des passeurs, souvent sans documents valides. Selon : [Country of Origin Information: Situation of Afghan Refugees in Iran](https://www.euaa.europa.eu/sites/default/files/publications/2023-01/2023_01_COI_Report_Iran_Afghans_Refugees_EN.pdf)  
-
-Depuis 2021, la pression migratoire a augmenté à cause de la pauvreté, des restrictions imposées par les Taliban, de la peur des représailles et du manque de travail. Le Mixed Migration Centre note que les départs sont compliqués par les frontières plus sécurisées, moins de voies légales, la fermeture ou difficulté des services consulaires, et l’augmentation des checkpoints Taliban. Selon : [The impact of the Afghanistan crisis on migration: Increasingly securitized borders will only make migration riskier and more dangerous | Mixed Migration Centre](https://mixedmigration.org/articles/the-impact-of-the-afghanistan-crisis-on-migration/)  
 
 - Contexte général et repères géographiques.
 - Éléments administratifs, économiques ou sociaux à suivre.
