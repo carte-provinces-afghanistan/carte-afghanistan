@@ -50,7 +50,7 @@ L'Organisation mondiale de la Santé (OMS) relève que le système de santé afg
 
 Les informations recueillies par l'Organisation internationale pour les migrations (IOM) et l'Organisation mondiale de la Santé (OMS) montrent que l'accès aux soins de santé dans la province de Nimroz demeure limité. Les établissements de santé sont souvent insuffisamment dotés en personnel et en ressources, tandis que l'éloignement géographique constitue un obstacle important à l'accès aux soins, particulièrement dans les districts ruraux de Kang et Chakhansur. Les organisations internationales soulignent également que la situation du système de santé afghan s'est détériorée depuis août 2021 en raison du manque de financement, de la pénurie de personnel qualifié et de la fermeture ou du fonctionnement réduit de nombreuses structures sanitaires. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)    
   
-**Sources à citer**
+**Sources à citer** (Accès aux soins de santé dans la province de Nimroz)
 
 **IOM – Nimroz Province Factsheet (section Health)** 
 
@@ -84,6 +84,12 @@ Plusieurs organisations internationales sont présentes ou actives à Nimroz, no
 - Fonds des Nations Unies pour l'enfance
 
 Ces organisations interviennent dans les domaines de la santé, de la protection, de l'aide humanitaire, de l'eau, de l'éducation et de l'assistance aux personnes déplacées et aux rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)  
+
+**Difficultés rencontrées lors de la fuite de l'Afghanistan par la province de Nimroz**  
+**Checkpoints des Taliban**
+
+L’EUAA indique que des checkpoints Taliban existent “dans et autour des villes et localités afghanes”. Elle mentionne aussi des checkpoints à la frontière Afghanistan-Iran destinés à identifier d’anciens soldats et des personnes liées au NRF, selon des informations rapportées en 2022. Selon :[6. Internal protection alternative | European Union Agency for Asylum ](https://www.euaa.europa.eu/country-guidance-afghanistan/6-internal-protection-alternative)  
+Cela signifie qu’une personne qui quitte l’Afghanistan par Nimroz peut être exposée à des contrôles sur la route, surtout si elle voyage sans documents, avec des passeurs, ou si son profil attire l’attention.
 
 **Les Afghans renvoyés d'Iran passent-ils par Nimroz ?**
 
