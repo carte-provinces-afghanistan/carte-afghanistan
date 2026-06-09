@@ -72,6 +72,8 @@ Les informations recueillies par l'Organisation internationale pour les migratio
 - Manque de personnel médical, de services de santé mentale et de capacités d'accueil pour les retournés.  
 [afghanistan_returnees_response_health_situation_report_no4_14_31May_2025.pdf](https://www.emro.who.int/images/stories/afghanistan/afghanistan_returnees_response_health_situation_report_no4_14_31May_2025.pdf)
 
+**OMS – Afghanistan Public Health Situation Analysis (2026)** → difficultés structurelles actuelles du système de santé. [who-phsa-afghanistan_march_2026.pdf](https://cdn.who.int/media/docs/default-source/documents/emergencies/who-phsa-afghanistan_march_2026.pdf)
+
 **Présence d'organisations internationales**
 
 Plusieurs organisations internationales sont présentes ou actives à Nimroz, notamment :
