@@ -86,10 +86,14 @@ Plusieurs organisations internationales sont présentes ou actives à Nimroz, no
 Ces organisations interviennent dans les domaines de la santé, de la protection, de l'aide humanitaire, de l'eau, de l'éducation et de l'assistance aux personnes déplacées et aux rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)  
 
 **Difficultés rencontrées lors de la fuite de l'Afghanistan par la province de Nimroz**  
-**Checkpoints des Taliban**
-
+**Checkpoints des Taliban**  
 L’EUAA indique que des checkpoints Taliban existent “dans et autour des villes et localités afghanes”. Elle mentionne aussi des checkpoints à la frontière Afghanistan-Iran destinés à identifier d’anciens soldats et des personnes liées au NRF, selon des informations rapportées en 2022. Selon :[6. Internal protection alternative | European Union Agency for Asylum ](https://www.euaa.europa.eu/country-guidance-afghanistan/6-internal-protection-alternative)  
 Cela signifie qu’une personne qui quitte l’Afghanistan par Nimroz peut être exposée à des contrôles sur la route, surtout si elle voyage sans documents, avec des passeurs, ou si son profil attire l’attention.
+
+**Risque pour les anciens fonctionnaires, militaires et policiers**  
+L’UNAMA a publié en août 2025 un rapport intitulé No Safe Haven, sur les risques rencontrés par les personnes retournant en Afghanistan. Le rapport rappelle que les Afghans à risque, y compris certains anciens membres de l’État et des forces de sécurité, disposent de très peu de voies sûres pour demander protection ou quitter légalement le pays. Selon : [unama_hrs_-_human_rights_risks_and_returns_-_3_august_25_final.pdf](https://unama.unmissions.org/sites/default/files/unama_hrs_-_human_rights_risks_and_returns_-_3_august_25_final.pdf)
+
+L’**EUAA** indique que les Taliban ont annoncé une amnistie, mais que des violations contre d’anciens membres des forces de sécurité ont continué à être signalées : assassinats, disparitions forcées, torture et autres mauvais traitements. L’EUAA précise que les pratiques des Taliban envers les anciens agents de l’État sont incohérentes, variables et parfois arbitraires. Selon : [3.1. Members of the security institutions of the former government | European Union Agency for Asylum](https://www.euaa.europa.eu/country-guidance-afghanistan-2024/31-members-security-institutions-former-government)
 
 **Les Afghans renvoyés d'Iran passent-ils par Nimroz ?**
 
