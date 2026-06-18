@@ -4,17 +4,17 @@ title: Nimroz
 ---
 ## Présentation
 
-La province de Nimroz est située dans le sud-ouest de l’Afghanistan. Sa capitale est Zaranj. Elle partage des frontières avec l’Iran à l’ouest et le Pakistan au sud, ce qui en fait une importante zone de transit pour le commerce et les mouvements de population. La province couvre une superficie d’environ 41 000 km² et compte généralement cinq districts administratifs. Son territoire est principalement désertique et elle fait partie des provinces les moins développées du pays.
+La province de Nimroz, située dans le sud-ouest de l’Afghanistan, a pour capitale Zaranj. Frontalière avec l’Iran et le Pakistan, elle constitue une importante zone de transit pour les échanges et les mouvements migratoires. Principalement désertique, elle couvre environ 41 000 km², compte cinq districts et figure parmi les provinces les moins développées du pays.
 
-Selon des organisations internationales telles que l’Organisation internationale pour les migrations (IOM) [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf) , Nimroz est également l’une des principales provinces de passage pour les Afghans qui cherchent à quitter le pays en direction de l’Iran et, plus largement, vers l’Europe ou d’autres destinations. Cette position frontalière stratégique a renforcé son importance depuis la prise de pouvoir des Taliban en août 2021.  
+Selon l’IOM, la province de Nimroz constitue l’une des principales voies de passage pour les Afghans qui quittent le pays vers l’Iran et d’autres destinations. Son importance stratégique s’est renforcée depuis la prise de pouvoir des Taliban en août 2021. [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf) 
 
-**Districts :** La province de Nimruz est composée de cinq districts : Zaranj (capitale provinciale), Kang, Chakhansur, Khash Rod (Khash Rud) et Chahar Burjak, comme l'illustre la carte ci-dessous.    
+**Districts :** La province de Nimruz est composée de cinq districts : comme l'illustre la carte ci-dessous.
 
-![Nimruz_5 districts.png](media/nimruz5-districts.png)
+![image.png](media/image.png)
 
-## **Situation de vie dans la province de Nimroz**
+    **Situation de vie dans la province de Nimroz**
 
-Les habitants de Nimroz font face à des difficultés importantes liées à la pauvreté, au chômage, aux sécheresses récurrentes et au manque d'infrastructures. L'IOM souligne également que la province accueille un nombre important de personnes déplacées internes et de migrants de retour, ce qui augmente la pression sur les ressources locales. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
+La population de Nimroz est confrontée à la pauvreté, au chômage, aux sécheresses récurrentes et au manque d’infrastructures. La présence de personnes déplacées et de migrants de retour accentue également la pression sur les ressources locales. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
 
 Contrairement aux filles, les garçons continuent d'avoir accès à tous les niveaux d'enseignement en Afghanistan. Toutefois, de nombreux garçons demeurent exclus du système scolaire en raison de la pauvreté, du travail des enfants, de l'éloignement des établissements scolaires et des difficultés économiques. Selon l'UNICEF, près de 40 % des enfants non scolarisés en Afghanistan sont des garçons. Dans la province de Nimroz, les garçons présentent un taux de scolarisation supérieur à celui des filles, mais l'accès à l'éducation reste limité dans plusieurs zones rurales. Selon : [Education | UNICEF Afghanistan](https://www.unicef.org/afghanistan/education)  
 
@@ -49,7 +49,7 @@ L'IOM indique également que dans certaines zones de la province, notamment dans
 L'Organisation mondiale de la Santé (OMS) relève que le système de santé afghan souffre de problèmes structurels persistants, notamment un sous-investissement dans les infrastructures médicales, un manque de personnel de santé qualifié et une disponibilité insuffisante des services médicaux. L'OMS indique que de nombreux établissements de santé fonctionnent à capacité réduite ou ont fermé, ce qui limite davantage l'accès aux soins pour la population. Selon : [who-phsa-afghanistan_march_2026.pdf](https://cdn.who.int/media/docs/default-source/documents/emergencies/who-phsa-afghanistan_march_2026.pdf)
 
 Les informations recueillies par l'Organisation internationale pour les migrations (IOM) et l'Organisation mondiale de la Santé (OMS) montrent que l'accès aux soins de santé dans la province de Nimroz demeure limité. Les établissements de santé sont souvent insuffisamment dotés en personnel et en ressources, tandis que l'éloignement géographique constitue un obstacle important à l'accès aux soins, particulièrement dans les districts ruraux de Kang et Chakhansur. Les organisations internationales soulignent également que la situation du système de santé afghan s'est détériorée depuis août 2021 en raison du manque de financement, de la pénurie de personnel qualifié et de la fermeture ou du fonctionnement réduit de nombreuses structures sanitaires. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)    
-  
+
 **Sources à citer** (Accès aux soins de santé dans la province de Nimroz)
 
 **IOM – Nimroz Province Factsheet (section Health)** 
@@ -98,7 +98,7 @@ L’EUAA indique que des checkpoints Taliban existent “dans et autour des vill
 Cela signifie qu’une personne qui quitte l’Afghanistan par Nimroz peut être exposée à des contrôles sur la route, surtout si elle voyage sans documents, avec des passeurs, ou si son profil attire l’attention.
 
 **Risque pour les anciens fonctionnaires, militaires et policiers**  
-L’UNAMA a publié en août 2025 un rapport intitulé No Safe Haven, sur les risques rencontrés par les personnes retournant en Afghanistan. Le rapport rappelle que les Afghans à risque, y compris certains anciens membres de l’État et des forces de sécurité, disposent de très peu de voies sûres pour demander protection ou quitter légalement le pays. Selon : [unama_hrs_-_human_rights_risks_and_returns_-_3_august_25_final.pdf](https://unama.unmissions.org/sites/default/files/unama_hrs_-_human_rights_risks_and_returns_-_3_august_25_final.pdf)
+L’UNAMA a publié en août 2025 un rapport intitulé No Safe Haven, sur les risques rencontrés par les personnes retournant en Afghanistan. Le rapport rappelle que les Afghans à risque, y compris certains anciens membres de l’État et des forces de sécurité, disposent de très peu de voies sûres pour demander protection ou quitter légalement le pays. Selon : [unama_hrs_-*human_rights_risks_and_returns*-_3_august_25_final.pdf](https://unama.unmissions.org/sites/default/files/unama_hrs_-_human_rights_risks_and_returns_-_3_august_25_final.pdf)
 
 L’**EUAA** indique que les Taliban ont annoncé une amnistie, mais que des violations contre d’anciens membres des forces de sécurité ont continué à être signalées : assassinats, disparitions forcées, torture et autres mauvais traitements. L’EUAA précise que les pratiques des Taliban envers les anciens agents de l’État sont incohérentes, variables et parfois arbitraires. Selon : [3.1. Members of the security institutions of the former government | European Union Agency for Asylum](https://www.euaa.europa.eu/country-guidance-afghanistan-2024/31-members-security-institutions-former-government)
 
