@@ -12,7 +12,9 @@ Selon l’IOM, la province de Nimroz constitue l’une des principales voies de 
 
 ![image.png](media/image.png)
 
-    **Situation de vie dans la province de Nimroz**
+```
+**Situation de vie dans la province de Nimroz**
+```
 
 La population de Nimroz est confrontée à la pauvreté, au chômage, aux sécheresses récurrentes et au manque d’infrastructures. La présence de personnes déplacées et de migrants de retour accentue également la pression sur les ressources locales. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
 
@@ -105,19 +107,3 @@ L’**EUAA** indique que les Taliban ont annoncé une amnistie, mais que des vio
 **Les Afghans renvoyés d'Iran passent-ils par Nimroz ?**
 
 Oui. Nimroz est l'un des principaux points de retour des Afghans expulsés ou rapatriés depuis l'Iran. Le poste-frontière de Zaranj est l'une des principales portes d'entrée en Afghanistan pour les personnes renvoyées d'Iran. Le HCR (UNHCR) dispose d'un centre d'accueil officiel à Zaranj pour les rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)  
-
-- Contexte général et repères géographiques.
-- Éléments administratifs, économiques ou sociaux à suivre.
-- Évolutions récentes, contraintes et points de vigilance.
-
-> Exemple de citation ou d'encadré important à faire ressortir dans la fiche.
-
-## Exemple de tableau
-
-
-| Indicateur | Valeur |
-| ---------- | ---------------- |
-| Statut | À compléter |
-| Source | Fichier Markdown |
-
-
