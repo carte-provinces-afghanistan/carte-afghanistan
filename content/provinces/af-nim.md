@@ -12,10 +12,7 @@ Selon l’IOM, la province de Nimroz constitue l’une des principales voies de 
 
 ![image.png](media/image.png)
 
-```
-**Situation de vie dans la province de Nimroz**
-```
-
+**Situation de vie dans la province de Nimroz**  
 La population de Nimroz est confrontée à la pauvreté, au chômage, aux sécheresses récurrentes et au manque d’infrastructures. La présence de personnes déplacées et de migrants de retour accentue également la pression sur les ressources locales. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
 
 Contrairement aux filles, les garçons continuent d'avoir accès à tous les niveaux d'enseignement en Afghanistan. Toutefois, de nombreux garçons demeurent exclus du système scolaire en raison de la pauvreté, du travail des enfants, de l'éloignement des établissements scolaires et des difficultés économiques. Selon l'UNICEF, près de 40 % des enfants non scolarisés en Afghanistan sont des garçons. Dans la province de Nimroz, les garçons présentent un taux de scolarisation supérieur à celui des filles, mais l'accès à l'éducation reste limité dans plusieurs zones rurales. Selon : [Education | UNICEF Afghanistan](https://www.unicef.org/afghanistan/education)  
