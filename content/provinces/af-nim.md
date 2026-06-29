@@ -6,8 +6,10 @@ title: Nimroz
 
 La province de Nimroz, située dans le sud-ouest de l’Afghanistan, a pour capitale Zaranj. Frontalière avec l’Iran et le Pakistan, elle constitue une importante zone de transit pour les échanges et les mouvements migratoires. Principalement désertique, elle couvre environ 41 000 km², compte cinq districts et figure parmi les provinces les moins développées du pays.
 
-Selon l’IOM, la province de Nimroz constitue l’une des principales voies de passage pour les Afghans qui quittent le pays vers l’Iran et d’autres destinations. Son importance stratégique s’est renforcée depuis la prise de pouvoir des Taliban en août 2021. [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)   
-**Nimroz** est majoritairement peuplée de Baloutches, suivis des Pachtounes, des Brahouis, des Tadjiks et des Ouzbeks. Les principales tribus pachtounes sont les Barakzai et les Noorzai. [Nimroz - Program for Culture and Conflict Studies - Naval Postgraduate School](https://nps.edu/web/ccs/nimroz)  
+Selon l’IOM, la province de Nimroz constitue l’une des principales voies de passage pour les Afghans qui quittent le pays vers l’Iran et d’autres destinations. Son importance stratégique s’est renforcée depuis la prise de pouvoir des Taliban en août 2021. [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)
+
+**Nimroz** est majoritairement peuplée de Baloutches, suivis des Pachtounes, des Brahouis, des Tadjiks et des Ouzbeks. Les principales tribus pachtounes sont les Barakzai et les Noorzai. [Nimroz - Program for Culture and Conflict Studies - Naval Postgraduate School](https://nps.edu/web/ccs/nimroz)
+
 **Districts :** La province de Nimruz est composée de cinq districts : comme l'illustre la carte ci-dessous.
 
 ![image.png](media/image.png)
