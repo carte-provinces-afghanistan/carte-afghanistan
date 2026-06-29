@@ -21,14 +21,11 @@ Sources : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](ht
 [Éducation | UNICEF Afghanistan ,](https://www.unicef.org/afghanistan/education?utm_source)     
 **La province de Nimroz dispose également une université publique à Zaranj** :  
 **l'Université de Nimroz** : Fondée en 2011. Toutefois, l’accès à l’enseignement reste limité par le manque de ressources et les difficultés économiques. Selon l’IOM, les principaux obstacles à la scolarisation sont le coût de l’éducation, l’éloignement des écoles, les problèmes de transport et le manque d’infrastructures scolaires. Dans certaines zones, comme le district de Chakhansur, jusqu’à 88 % des enfants n’étaient pas scolarisés en 2021.  
+  
 **Accès aux soins de santé dans la province de Nimroz**  
-Selon l’OMS, l’accès aux soins de santé à Nimroz reste limité en raison du manque d’infrastructures, de personnel médical qualifié et de ressources. De nombreux établissements de santé fonctionnent à capacité réduite ou ont fermé, ce qui restreint l’accès aux soins pour la population.   
-Selon : [who-phsa-afghanistan_march_2026.pdf](https://cdn.who.int/media/docs/default-source/documents/emergencies/who-phsa-afghanistan_march_2026.pdf)
-
-Les informations recueillies par l'Organisation internationale pour les migrations (IOM) et l'Organisation mondiale de la Santé (OMS) montrent que l'accès aux soins de santé dans la province de Nimroz demeure limité. Les établissements de santé sont souvent insuffisamment dotés en personnel et en ressources, tandis que l'éloignement géographique constitue un obstacle important à l'accès aux soins, particulièrement dans les districts ruraux de Kang et Chakhansur. Les organisations internationales soulignent également que la situation du système de santé afghan s'est détériorée depuis août 2021 en raison du manque de financement, de la pénurie de personnel qualifié et de la fermeture ou du fonctionnement réduit de nombreuses structures sanitaires. Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)    
-
-**Sources à citer** (Accès aux soins de santé dans la province de Nimroz)
-
+Selon l’IOM et l’OMS, l’accès aux soins de santé à Nimroz demeure limité, notamment dans les districts ruraux de Kang et Chakhansur, en raison du manque de personnel, de ressources et de l’éloignement des structures de santé. Depuis août 2021, la situation s’est aggravée en raison du manque de financement et de la fermeture ou du fonctionnement réduit de nombreux établissements de santé.  
+Selon : [who-phsa-afghanistan_march_2026.pdf](https://cdn.who.int/media/docs/default-source/documents/emergencies/who-phsa-afghanistan_march_2026.pdf) , [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
+**Sources à citer** (Accès aux soins de santé dans la province de Nimroz)  
 **IOM – Nimroz Province Factsheet (section Health)** 
 
 - Les centres de santé sont souvent sous-dotés en personnel et en ressources.
