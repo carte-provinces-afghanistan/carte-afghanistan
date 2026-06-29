@@ -25,13 +25,14 @@ Sources : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](ht
 
 **La province de Nimroz dispose également une université publique à Zaranj** :  
 **l'Université de Nimroz** : Fondée en 2011. Toutefois, l’accès à l’enseignement reste limité par le manque de ressources et les difficultés économiques. Selon l’IOM, les principaux obstacles à la scolarisation sont le coût de l’éducation, l’éloignement des écoles, les problèmes de transport et le manque d’infrastructures scolaires. Dans certaines zones, comme le district de Chakhansur, jusqu’à 88 % des enfants n’étaient pas scolarisés en 2021.  
-  
+
 **Accès aux soins de santé dans la province de Nimroz**
 
 Selon l’IOM et l’OMS, l’accès aux soins de santé à Nimroz demeure limité, notamment dans les districts ruraux de Kang et Chakhansur, en raison du manque de personnel, de ressources et de l’éloignement des structures de santé. Depuis août 2021, la situation s’est aggravée en raison du manque de financement et de la fermeture ou du fonctionnement réduit de nombreux établissements de santé.  
 Selon : [who-phsa-afghanistan_march_2026.pdf](https://cdn.who.int/media/docs/default-source/documents/emergencies/who-phsa-afghanistan_march_2026.pdf) , [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)
 
 **Sources à citer** (Accès aux soins de santé dans la province de Nimroz)  
+  
 **IOM – Nimroz Province Factsheet (section Health)** 
 
 - Les centres de santé sont souvent sous-dotés en personnel et en ressources.
@@ -85,7 +86,7 @@ L’**EUAA** indique que les Taliban ont annoncé une amnistie, mais que des vio
 
 **Les Afghans renvoyés d'Iran passent-ils par Nimroz ?**  
 Oui. Nimroz est l'un des principaux points de retour des Afghans expulsés ou rapatriés depuis l'Iran. Le poste-frontière de Zaranj est l'une des principales portes d'entrée en Afghanistan pour les personnes renvoyées d'Iran. Le HCR (UNHCR) dispose d'un centre d'accueil officiel à Zaranj pour les rapatriés. Selon : [Help if you’re returning from Iran - UNHCR Afghanistan](https://help.unhcr.org/afghanistan/support/returning-to-afghanistan/help-if-youre-returning-from-iran/)    
-  
+
 ℹ️ **Informations importantes**  
-Ce site est régulièrement mis à jour. N'hésitez pas à le consulter pour découvrir les dernières informations. Si vous disposez de sources fiables ou d'informations pertinentes sur les sujets abordés, nous vous invitons à les partager afin de contribuer à l'amélioration du contenu.   
-**📧 Contact :** Nangialai.kharoti@protectrom.ch
+Ce site est régulièrement mis à jour. N'hésitez pas à le consulter pour découvrir les dernières informations. Si vous disposez de sources fiables ou d'informations pertinentes sur les sujets abordés, nous vous invitons à les partager afin de contribuer à l'amélioration du contenu.  
+**📧 Contact :** [Nangialai.kharoti@protectrom.ch](mailto:Nangialai.kharoti@protectrom.ch)
