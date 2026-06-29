@@ -18,8 +18,7 @@ L’accès à l’éducation demeure limité, particulièrement dans les zones r
 
 Selon l’UNICEF, le système éducatif afghan reste fortement affecté par la pauvreté, l’instabilité et le manque d’infrastructures. À Nimroz, l’éloignement des écoles, les difficultés économiques et le manque d’enseignantes limitent l’accès à l’éducation. Les filles sont particulièrement touchées par ces obstacles et représentent la majorité des enfants non scolarisés en Afghanistan.  
 Sources : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf), [Nimrooz Highlight 25 Jan-English-FINAL_0.pdf , ](https://afghanistan.unfpa.org/sites/default/files/pub-pdf/Nimrooz%20Highlight%2025%20Jan-English-FINAL_0.pdf)  
-[Éducation | UNICEF Afghanistan ,](https://www.unicef.org/afghanistan/education?utm_source)   
-
+[Éducation | UNICEF Afghanistan ,](https://www.unicef.org/afghanistan/education?utm_source)     
 **La province de Nimroz dispose également une université publique à Zaranj** :  
 **l'Université de Nimroz** : Fondée en 2011. Toutefois, l’accès à l’enseignement reste limité par le manque de ressources et les difficultés économiques. Selon l’IOM, les principaux obstacles à la scolarisation sont le coût de l’éducation, l’éloignement des écoles, les problèmes de transport et le manque d’infrastructures scolaires. Dans certaines zones, comme le district de Chakhansur, jusqu’à 88 % des enfants n’étaient pas scolarisés en 2021.  
 **Accès aux soins de santé dans la province de Nimroz**  
