@@ -7,7 +7,6 @@ title: Nangarhar
 Ce texte est un **contenu de démonstration** destiné à montrer la mise en forme finale. Il pourra être remplacé directement dans PagesCMS par un texte plus précis sur la province.
 
 L'objectif est de vérifier un rendu confortable pour des textes longs, avec des paragraphes, des liens, des listes et des éléments visuels simples.  
-  
 
 
 ![Carte de la province de Nangarhar.png](media/carte-de-la-province-de-nangarhar.png)
