@@ -6,7 +6,8 @@ title: Nimroz
 
 La province de Nimroz, située dans le sud-ouest de l’Afghanistan, a pour capitale Zaranj. Frontalière avec l’Iran et le Pakistan, elle constitue une importante zone de transit pour les échanges et les mouvements migratoires. Principalement désertique, elle couvre environ 41 000 km², compte cinq districts et figure parmi les provinces les moins développées du pays.
 
-**Nimroz** est majoritairement peuplée de Baloutches, suivis des Pachtounes, des Brahouis, des Tadjiks et des Ouzbeks. Les principales tribus pachtounes sont les Barakzai et les Noorzai. [Nimroz - Program for Culture and Conflict Studies - Naval Postgraduate School](https://nps.edu/web/ccs/nimroz)
+**Nimroz** est majoritairement peuplée de Baloutches, suivis des Pachtounes, des Brahouis, des Tadjiks et des Ouzbeks. Les principales tribus pachtounes sont les Barakzai et les Noorzai.   
+[Nimroz - Program for Culture and Conflict Studies - Naval Postgraduate School](https://nps.edu/web/ccs/nimroz)
 
 **Districts :**  Comme l'illustre la carte ci-dessous.
 
