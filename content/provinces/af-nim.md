@@ -6,8 +6,6 @@ title: Nimroz
 
 La province de Nimroz, située dans le sud-ouest de l’Afghanistan, a pour capitale Zaranj. Frontalière avec l’Iran et le Pakistan, elle constitue une importante zone de transit pour les échanges et les mouvements migratoires. Principalement désertique, elle couvre environ 41 000 km², compte cinq districts et figure parmi les provinces les moins développées du pays.
 
-Selon l’IOM, la province de Nimroz constitue l’une des principales voies de passage pour les Afghans qui quittent le pays vers l’Iran et d’autres destinations. Son importance stratégique s’est renforcée depuis la prise de pouvoir des Taliban en août 2021. [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)
-
 **Nimroz** est majoritairement peuplée de Baloutches, suivis des Pachtounes, des Brahouis, des Tadjiks et des Ouzbeks. Les principales tribus pachtounes sont les Barakzai et les Noorzai. [Nimroz - Program for Culture and Conflict Studies - Naval Postgraduate School](https://nps.edu/web/ccs/nimroz)
 
 **Districts :**  Comme l'illustre la carte ci-dessous.
@@ -64,8 +62,9 @@ Ces organisations interviennent dans les domaines de la santé, de la protection
 
 **Migration et fuite par Nimroz**
 
-Selon l’EUAA, Zaranj (Nimroz) constitue l’un des principaux points de passage clandestins vers l’Iran, emprunté par de nombreux Afghans avec l’aide de passeurs et souvent sans documents valides.  
-Selon : [Country of Origin Information: Situation of Afghan Refugees in Iran](https://www.euaa.europa.eu/sites/default/files/publications/2023-01/2023_01_COI_Report_Iran_Afghans_Refugees_EN.pdf)  
+Selon l’EUAA, Zaranj (Nimroz) est l’un des principaux points de passage clandestins vers l’Iran. Depuis août 2021, son importance stratégique s’est renforcée, avec un transit important de migrants afghans, souvent sans documents valides et avec l’aide de passeurs.  
+Selon : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf,](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)  
+[Country of Origin Information: Situation of Afghan Refugees in Iran](https://www.euaa.europa.eu/sites/default/files/publications/2023-01/2023_01_COI_Report_Iran_Afghans_Refugees_EN.pdf)  
 
 Depuis 2021, les départs depuis l’Afghanistan ont augmenté en raison de la pauvreté, du manque de travail, des restrictions imposées par les Taliban et de la peur des représailles. Selon le Mixed Migration Centre, ces départs sont devenus plus difficiles à cause du renforcement des frontières, du manque de voies légales et de l’augmentation des checkpoints Taliban.  
 Selon : [The impact of the Afghanistan crisis on migration: Increasingly securitized borders will only make migration riskier and more dangerous | Mixed Migration Centre](https://mixedmigration.org/articles/the-impact-of-the-afghanistan-crisis-on-migration/)  
