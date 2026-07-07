@@ -10,21 +10,18 @@ Selon l’IOM, la province de Nimroz constitue l’une des principales voies de 
 
 **Nimroz** est majoritairement peuplée de Baloutches, suivis des Pachtounes, des Brahouis, des Tadjiks et des Ouzbeks. Les principales tribus pachtounes sont les Barakzai et les Noorzai. [Nimroz - Program for Culture and Conflict Studies - Naval Postgraduate School](https://nps.edu/web/ccs/nimroz)
 
-**Districts :** La province de Nimruz est composée de cinq districts : comme l'illustre la carte ci-dessous.
+**Districts :**  Comme l'illustre la carte ci-dessous.
 
 ![image.png](media/image.png)
 
-**Situation de vie et accès à l’éducation dans la province de Nimroz**
+**Situation de vie et accès à l’éducation scolaires et univercitaire publique dans la province de Nimroz**
 
 La population de Nimroz est confrontée à la pauvreté, au chômage, aux sécheresses récurrentes et au manque d’infrastructures. La présence de personnes déplacées et de migrants de retour exerce également une pression supplémentaire sur les ressources locales.  
-L’accès à l’éducation demeure limité, particulièrement dans les zones rurales et désertiques éloignées de Zaranj. Selon l’UNFPA, 57,5 % des habitants âgés de 7 ans et plus n’avaient jamais fréquenté l’école et le taux net de fréquentation du primaire était de 55,5 %. Les garçons étaient davantage scolarisés que les filles (60,9 % contre 49,7 %), tandis que la fréquentation diminue fortement au niveau secondaire.
-
-Selon l’UNICEF, le système éducatif afghan reste fortement affecté par la pauvreté, l’instabilité et le manque d’infrastructures. À Nimroz, l’éloignement des écoles, les difficultés économiques et le manque d’enseignantes limitent l’accès à l’éducation. Les filles sont particulièrement touchées par ces obstacles et représentent la majorité des enfants non scolarisés en Afghanistan.  
-Sources : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf), [Nimrooz Highlight 25 Jan-English-FINAL_0.pdf , ](https://afghanistan.unfpa.org/sites/default/files/pub-pdf/Nimrooz%20Highlight%2025%20Jan-English-FINAL_0.pdf)  
-[Éducation | UNICEF Afghanistan ,](https://www.unicef.org/afghanistan/education?utm_source)
-
-**La province de Nimroz dispose également une université publique à Zaranj** :  
+L’accès à l’éducation demeure limité, particulièrement dans les zones rurales et désertiques éloignées de Zaranj. Selon l’UNFPA, 57,5 % des habitants âgés de 7 ans et plus n’avaient jamais fréquenté l’école et le taux net de fréquentation du primaire était de 55,5 %. Les garçons étaient davantage scolarisés que les filles (60,9 % contre 49,7 %), tandis que la fréquentation diminue fortement au niveau secondaire.  
 **l'Université de Nimroz** : Fondée en 2011. Toutefois, l’accès à l’enseignement reste limité par le manque de ressources et les difficultés économiques. Selon l’IOM, les principaux obstacles à la scolarisation sont le coût de l’éducation, l’éloignement des écoles, les problèmes de transport et le manque d’infrastructures scolaires. Dans certaines zones, comme le district de Chakhansur, jusqu’à 88 % des enfants n’étaient pas scolarisés en 2021.  
+Sources : [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf), [Nimrooz Highlight 25 Jan-English-FINAL_0.pdf , ](https://afghanistan.unfpa.org/sites/default/files/pub-pdf/Nimrooz%20Highlight%2025%20Jan-English-FINAL_0.pdf)  
+[Éducation | UNICEF Afghanistan ,](https://www.unicef.org/afghanistan/education?utm_source)  
+  
 
 **Accès aux soins de santé dans la province de Nimroz**
 
@@ -32,7 +29,7 @@ Selon l’IOM et l’OMS, l’accès aux soins de santé à Nimroz demeure limit
 Selon : [who-phsa-afghanistan_march_2026.pdf](https://cdn.who.int/media/docs/default-source/documents/emergencies/who-phsa-afghanistan_march_2026.pdf) , [southern-region-nimroz-province-factsheet-iom-places-16022022.pdf](https://afghanistan.iom.int/sites/g/files/tmzbdl1071/files/documents/southern-region-nimroz-province-factsheet-iom-places-16022022.pdf)
 
 **Sources à citer** (Accès aux soins de santé dans la province de Nimroz)  
-  
+
 **IOM – Nimroz Province Factsheet (section Health)** 
 
 - Les centres de santé sont souvent sous-dotés en personnel et en ressources.
