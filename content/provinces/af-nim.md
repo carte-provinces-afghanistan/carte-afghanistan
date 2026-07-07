@@ -13,7 +13,7 @@ La province de Nimroz, située dans le sud-ouest de l’Afghanistan, a pour capi
 
 ![image.png](media/image.png)
 
-**Situation de vie et accès à l’éducation scolaires et univercitaire publique dans la province de Nimroz**
+**Situation de vie et accès à l’éducation et univercitaire publique dans la province de Nimroz**
 
 La population de Nimroz est confrontée à la pauvreté, au chômage, aux sécheresses récurrentes et au manque d’infrastructures. La présence de personnes déplacées et de migrants de retour exerce également une pression supplémentaire sur les ressources locales.  
 L’accès à l’éducation demeure limité, particulièrement dans les zones rurales et désertiques éloignées de Zaranj. Selon l’UNFPA, 57,5 % des habitants âgés de 7 ans et plus n’avaient jamais fréquenté l’école et le taux net de fréquentation du primaire était de 55,5 %. Les garçons étaient davantage scolarisés que les filles (60,9 % contre 49,7 %), tandis que la fréquentation diminue fortement au niveau secondaire.  
